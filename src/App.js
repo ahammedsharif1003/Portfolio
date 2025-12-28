@@ -15,7 +15,7 @@ export default function App() {
 
         <div className="hero-buttons">
           <a href="#projects">View Projects</a>
-
+            <div><br/><br/></div>
           <a
             href="/resume.pdf"
             download="Ahammed_Sharif_Resume"

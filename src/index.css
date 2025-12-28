@@ -68,6 +68,7 @@ section {
 }
 
 .hero-buttons .outline {
+  padding-top: px;
   background: transparent;
   border: 2px solid black;
 }
